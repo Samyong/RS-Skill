@@ -1,0 +1,11 @@
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\bin\Debug\RSKILL.exe
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\bin\Debug\RSKILL.pdb
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\MainWindow.baml
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\App.g.cs
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\RSKILL_MarkupCompile.cache
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\RSKILL.g.resources
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\RSKILL.Properties.Resources.resources
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\RSKILL.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\RSKILL.exe
+C:\Users\Sam\Documents\Servers\Terraria\plugins\helloTshock\RSKILL\RSKILL\obj\x86\Debug\RSKILL.pdb

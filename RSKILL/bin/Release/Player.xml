@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <atk>75</atk>
+  <str>70</str>
+  <def>70</def>
+  <con>72</con>
+  <mag>42</mag>
+  <rng>32</rng>
+  <pray>33</pray>
+  <sum>1</sum>
+</player>
